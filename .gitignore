@@ -7,3 +7,10 @@
 
 # .tfvars files
 *.tfvars
+
+# environment variables
+.env*
+
+# vim temporary files
+.*.swp
+.*.swo
